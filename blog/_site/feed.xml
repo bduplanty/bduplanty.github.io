@@ -3,10 +3,10 @@
   <channel>
     <title>AZCastle</title>
     <description>A place for my stuff on the web.</description>
-    <link>/blog/</link>
-    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Nov 2021 18:13:36 -0700</pubDate>
-    <lastBuildDate>Sat, 20 Nov 2021 18:13:36 -0700</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 20 Nov 2021 18:17:50 -0700</pubDate>
+    <lastBuildDate>Sat, 20 Nov 2021 18:17:50 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;&lt;em&gt;To excel is to continally perform.  Not for a moment or moments.  But to perform day after day, month after month, and to make that uncommon performance look commonplace.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0700</pubDate>
-        <link>/blog/to-excel/</link>
-        <guid isPermaLink="true">/blog/to-excel/</guid>
+        <link>http://localhost:4000/blog/to-excel/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/to-excel/</guid>
         
         
         <category>images</category>
@@ -31,8 +31,8 @@
 &lt;p&gt;-W. Edwards Demming, Data Scientist&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Feb 2017 00:00:00 -0700</pubDate>
-        <link>/blog/deming-and-data/</link>
-        <guid isPermaLink="true">/blog/deming-and-data/</guid>
+        <link>http://localhost:4000/blog/deming-and-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/deming-and-data/</guid>
         
         
         <category>images</category>
@@ -46,8 +46,8 @@
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7TXEZ4tP06c&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 21 Jun 2016 00:00:00 -0700</pubDate>
-        <link>/blog/everyonecandraw/</link>
-        <guid isPermaLink="true">/blog/everyonecandraw/</guid>
+        <link>http://localhost:4000/blog/everyonecandraw/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/everyonecandraw/</guid>
         
         
         <category>interesting</category>
@@ -59,8 +59,8 @@
         <description>&lt;p&gt;Arizona State Seal on a building in the capitol complex.&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Mar 2016 00:00:00 -0700</pubDate>
-        <link>/blog/arizonastateseal/</link>
-        <guid isPermaLink="true">/blog/arizonastateseal/</guid>
+        <link>http://localhost:4000/blog/arizonastateseal/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/arizonastateseal/</guid>
         
         
         <category>images</category>
@@ -86,8 +86,8 @@
 &lt;p&gt;&lt;em&gt;image:  &lt;a href=&quot;https://www.freepik.com/vectors/infographic&quot;&gt;Infographic vector created by freepik - www.freepik.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/blog/agile-development/</link>
-        <guid isPermaLink="true">/blog/agile-development/</guid>
+        <link>http://localhost:4000/blog/agile-development/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/agile-development/</guid>
         
         
         <category>productivity</category>
@@ -118,8 +118,8 @@
 &lt;p&gt;&lt;em&gt;image: https://arstechnica.com/gadgets/2014/01/modems-warez-and-ansi-art-remembering-bbs-life-at-2400bps/&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/blog/retro-bbs-site/</link>
-        <guid isPermaLink="true">/blog/retro-bbs-site/</guid>
+        <link>http://localhost:4000/blog/retro-bbs-site/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/retro-bbs-site/</guid>
         
         
         <category>interesting</category>
