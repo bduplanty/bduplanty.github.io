@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                           Test                              :               Test:                                                                                                                                                                       Bruce                                20 Nov 2021                                                                                                                                                          All Stories:                                                                                                     Test              :       Test:                                                                               Bruce                20 Nov 2021                                                                                                                                     To Excel              :       To excel is to continally perform.  Not for a moment or moments.  But to perform day after day, month after month, and to make that uncommon performance look commonplace. :                                                                               Bruce                01 Aug 2019                                                                                                                                     Deming and Data              :       Without data you’re just another person with an opinion. :                                                                               Bruce                22 Feb 2017                                                                                                                                     Everyone Can Draw              :       :                                                                               Bruce                21 Jun 2016                                                                                                                                     Arizona State Seal              :       Arizona State Seal on a building in the capitol complex. :                                                                               Bruce                11 Mar 2016                                                                                                                                     Aglie Development              :       Agile Wiki Agile reference Agile 101 - Agile Alliance HBR Article - Embracing Agile:                                                                               Bruce                12 Jun 2015                                                         &laquo; Prev       1        2      Next &raquo;     "
+    "body": "      Featured:                                                                                                                                                                                                           To Excel                              :               To excel is to continally perform. Not for a moment or moments. But to perform day after day, month after month, and to make that. . . :                                                                                                                                                                       Bruce                                01 Aug 2019                                                                                                                                                    All Stories:                                                                                                     To Excel              :       To excel is to continally perform.  Not for a moment or moments.  But to perform day after day, month after month, and to make that uncommon performance look commonplace. :                                                                               Bruce                01 Aug 2019                                                                                                                                     Deming and Data              :       Without data you’re just another person with an opinion. :                                                                               Bruce                22 Feb 2017                                                                                                                                     Everyone Can Draw              :       :                                                                               Bruce                21 Jun 2016                                                                                                                                     Arizona State Seal              :       Arizona State Seal on a building in the capitol complex. :                                                                               Bruce                11 Mar 2016                                                                                                                                     Aglie Development              :       Agile Wiki Agile reference Agile 101 - Agile Alliance HBR Article - Embracing Agile:                                                                               Bruce                12 Jun 2015                                                                                                                                     Retro BBS              :       Rembmering the BBSes of the 80’s.  You can still get the source code and some folks have ported them to telnet access. :                                                                               Bruce                03 Jun 2015                                                          "
     }, {
     "id": 4,
     "url": "http://localhost:4000/robots.txt",
@@ -26,41 +26,31 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/page2/",
-    "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}              {% include pagination. html %}    "
-    }, {
-    "id": 6,
-    "url": "http://localhost:4000/Test/",
-    "title": "Test",
-    "body": "2021/11/20 - TestThis is a test file. "
-    }, {
-    "id": 7,
     "url": "http://localhost:4000/to-excel/",
     "title": "To Excel",
     "body": "2019/08/01 - To excel is to continally perform.  Not for a moment or moments.  But to perform day after day, month after month, and to make that uncommon performance look commonplace. "
     }, {
-    "id": 8,
+    "id": 6,
     "url": "http://localhost:4000/deming-and-data/",
     "title": "Deming and Data",
     "body": "2017/02/22 - Without data you’re just another person with an opinion. -W. Edwards Demming, Data Scientist "
     }, {
-    "id": 9,
+    "id": 7,
     "url": "http://localhost:4000/everyonecandraw/",
     "title": "Everyone Can Draw",
     "body": "2016/06/21 - "
     }, {
-    "id": 10,
+    "id": 8,
     "url": "http://localhost:4000/arizonastateseal/",
     "title": "Arizona State Seal",
     "body": "2016/03/11 - Arizona State Seal on a building in the capitol complex. "
     }, {
-    "id": 11,
+    "id": 9,
     "url": "http://localhost:4000/agile-development/",
     "title": "Aglie Development",
     "body": "2015/06/12 - Agile Wiki Agile reference Agile 101 - Agile Alliance HBR Article - Embracing AgileTools:  kanboard - Self Hosted Taiga. io SCRUM tool Monday. comimage: Infographic vector created by freepik - www. freepik. com "
     }, {
-    "id": 12,
+    "id": 10,
     "url": "http://localhost:4000/retro-bbs-site/",
     "title": "Retro BBS",
     "body": "2015/06/03 - Rembmering the BBSes of the 80’s.  You can still get the source code and some folks have ported them to telnet access. Retro BBSes Retro up BBS: rdnetbbs. comRetroDigital Current BBS list and info:  telnet BBS Guide Wikipedia entrySource code of retro-style BBS system…: BBS Documentary image: https://arstechnica. com/gadgets/2014/01/modems-warez-and-ansi-art-remembering-bbs-life-at-2400bps/ "
