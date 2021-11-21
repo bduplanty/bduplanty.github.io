@@ -3,7 +3,7 @@ layout: post
 title: "Deming and Data"
 author: bruce
 categories: [ images, quotes]
-image: assets/images/DemingandData.jpeg
+image: assets/images/deminganddata.jpeg
 beforetoc: ""
 toc: false
 comments: false
