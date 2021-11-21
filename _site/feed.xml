@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
+    <title>AZCastle</title>
+    <description>A place for my stuff on the web.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Nov 2021 20:02:24 -0700</pubDate>
-    <lastBuildDate>Sat, 20 Nov 2021 20:02:24 -0700</lastBuildDate>
+    <pubDate>Sat, 20 Nov 2021 20:10:39 -0700</pubDate>
+    <lastBuildDate>Sat, 20 Nov 2021 20:10:39 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;h1 id=&quot;test&quot;&gt;Test&lt;/h1&gt;
+
+&lt;p&gt;This is a test file.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Nov 2021 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/Test/</link>
+        <guid isPermaLink="true">http://localhost:4000/Test/</guid>
+        
+        
+      </item>
     
       <item>
         <title>To Excel</title>
         <description>&lt;p&gt;&lt;em&gt;To excel is to continally perform.  Not for a moment or moments.  But to perform day after day, month after month, and to make that uncommon performance look commonplace.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/images/quotes/2019/08/01/to-excel.html</link>
-        <guid isPermaLink="true">http://localhost:4000/images/quotes/2019/08/01/to-excel.html</guid>
+        <link>http://localhost:4000/to-excel/</link>
+        <guid isPermaLink="true">http://localhost:4000/to-excel/</guid>
         
         
         <category>images</category>
@@ -31,8 +44,8 @@
 &lt;p&gt;-W. Edwards Demming, Data Scientist&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Feb 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/images/quotes/2017/02/22/deming-and-data.html</link>
-        <guid isPermaLink="true">http://localhost:4000/images/quotes/2017/02/22/deming-and-data.html</guid>
+        <link>http://localhost:4000/deming-and-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/deming-and-data/</guid>
         
         
         <category>images</category>
@@ -46,8 +59,8 @@
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7TXEZ4tP06c&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 21 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interesting/2016/06/21/everyonecandraw.html</link>
-        <guid isPermaLink="true">http://localhost:4000/interesting/2016/06/21/everyonecandraw.html</guid>
+        <link>http://localhost:4000/everyonecandraw/</link>
+        <guid isPermaLink="true">http://localhost:4000/everyonecandraw/</guid>
         
         
         <category>interesting</category>
@@ -59,8 +72,8 @@
         <description>&lt;p&gt;Arizona State Seal on a building in the capitol complex.&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Mar 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/images/2016/03/11/arizonastateseal.html</link>
-        <guid isPermaLink="true">http://localhost:4000/images/2016/03/11/arizonastateseal.html</guid>
+        <link>http://localhost:4000/arizonastateseal/</link>
+        <guid isPermaLink="true">http://localhost:4000/arizonastateseal/</guid>
         
         
         <category>images</category>
@@ -86,8 +99,8 @@
 &lt;p&gt;&lt;em&gt;image:  &lt;a href=&quot;https://www.freepik.com/vectors/infographic&quot;&gt;Infographic vector created by freepik - www.freepik.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/productivity/2015/06/12/agile-development.html</link>
-        <guid isPermaLink="true">http://localhost:4000/productivity/2015/06/12/agile-development.html</guid>
+        <link>http://localhost:4000/agile-development/</link>
+        <guid isPermaLink="true">http://localhost:4000/agile-development/</guid>
         
         
         <category>productivity</category>
@@ -118,8 +131,8 @@
 &lt;p&gt;&lt;em&gt;image: https://arstechnica.com/gadgets/2014/01/modems-warez-and-ansi-art-remembering-bbs-life-at-2400bps/&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interesting/2015/06/03/retro-bbs-site.html</link>
-        <guid isPermaLink="true">http://localhost:4000/interesting/2015/06/03/retro-bbs-site.html</guid>
+        <link>http://localhost:4000/retro-bbs-site/</link>
+        <guid isPermaLink="true">http://localhost:4000/retro-bbs-site/</guid>
         
         
         <category>interesting</category>

@@ -4,7 +4,7 @@ title: "AZCastle"
 description: "A place for my stuff on the web."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+#baseurl: 
 #baseurl: /mediumish-theme-jekyll
 #google_analytics: ''
 #disqus: 'demowebsite'
