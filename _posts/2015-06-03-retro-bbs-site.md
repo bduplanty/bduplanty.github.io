@@ -8,7 +8,7 @@ beforetoc: "Remembering the BBSes of the 80's"
 toc: true
 comments: false
 ---
-Rembmering the BBSes of the 80's.  You can still get the source code and some folks have ported them to telnet access.
+Remembering the BBSes of the 80's.  You can still get the source code and some folks have ported them to telnet access.
 
 # Retro BBSes
 

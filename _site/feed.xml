@@ -3,19 +3,19 @@
   <channel>
     <title>AZCastle</title>
     <description>A place for my stuff on the web.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Nov 2021 22:06:52 -0700</pubDate>
-    <lastBuildDate>Sat, 20 Nov 2021 22:06:52 -0700</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Aug 2023 06:05:17 -0700</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2023 06:05:17 -0700</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>To Excel</title>
         <description>&lt;p&gt;&lt;em&gt;To excel is to continally perform.  Not for a moment or moments.  But to perform day after day, month after month, and to make that uncommon performance look commonplace.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/to-excel/</link>
-        <guid isPermaLink="true">http://localhost:4000/to-excel/</guid>
+        <link>/to-excel/</link>
+        <guid isPermaLink="true">/to-excel/</guid>
         
         
         <category>images</category>
@@ -31,8 +31,8 @@
 &lt;p&gt;-W. Edwards Demming, Data Scientist&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Feb 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/deming-and-data/</link>
-        <guid isPermaLink="true">http://localhost:4000/deming-and-data/</guid>
+        <link>/deming-and-data/</link>
+        <guid isPermaLink="true">/deming-and-data/</guid>
         
         
         <category>images</category>
@@ -46,8 +46,8 @@
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7TXEZ4tP06c&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 21 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/everyonecandraw/</link>
-        <guid isPermaLink="true">http://localhost:4000/everyonecandraw/</guid>
+        <link>/everyonecandraw/</link>
+        <guid isPermaLink="true">/everyonecandraw/</guid>
         
         
         <category>interesting</category>
@@ -59,8 +59,8 @@
         <description>&lt;p&gt;Arizona State Seal on a building in the capitol complex.&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Mar 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/arizonastateseal/</link>
-        <guid isPermaLink="true">http://localhost:4000/arizonastateseal/</guid>
+        <link>/arizonastateseal/</link>
+        <guid isPermaLink="true">/arizonastateseal/</guid>
         
         
         <category>images</category>
@@ -86,8 +86,8 @@
 &lt;p&gt;&lt;em&gt;image:  &lt;a href=&quot;https://www.freepik.com/vectors/infographic&quot;&gt;Infographic vector created by freepik - www.freepik.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/agile-development/</link>
-        <guid isPermaLink="true">http://localhost:4000/agile-development/</guid>
+        <link>/agile-development/</link>
+        <guid isPermaLink="true">/agile-development/</guid>
         
         
         <category>productivity</category>
@@ -96,7 +96,7 @@
     
       <item>
         <title>Retro BBS</title>
-        <description>&lt;p&gt;Rembmering the BBSes of the 80’s.  You can still get the source code and some folks have ported them to telnet access.&lt;/p&gt;
+        <description>&lt;p&gt;Remembering the BBSes of the 80’s.  You can still get the source code and some folks have ported them to telnet access.&lt;/p&gt;
 
 &lt;h1 id=&quot;retro-bbses&quot;&gt;Retro BBSes&lt;/h1&gt;
 
@@ -118,8 +118,8 @@
 &lt;p&gt;&lt;em&gt;image: https://arstechnica.com/gadgets/2014/01/modems-warez-and-ansi-art-remembering-bbs-life-at-2400bps/&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/retro-bbs-site/</link>
-        <guid isPermaLink="true">http://localhost:4000/retro-bbs-site/</guid>
+        <link>/retro-bbs-site/</link>
+        <guid isPermaLink="true">/retro-bbs-site/</guid>
         
         
         <category>interesting</category>
