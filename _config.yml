@@ -4,7 +4,7 @@ title: "AZCastle"
 description: "A place for my stuff on the web."
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
-baseurl: ""
+baseurl: "" 
 #baseurl: /mediumish-theme-jekyll
 #google_analytics: ''
 #disqus: 'demowebsite'
@@ -17,7 +17,7 @@ authors:
   bruce:
     name: Bruce
     display_name: Bruce    
-    avatar: 'assets/images/bruce-headshotavatar.png'
+    avatar: assets/images/bruce-headshotavatar.png
     email: bduplanty@gmail.com
     web: https://www.azcastle.com
     twitter: ""
