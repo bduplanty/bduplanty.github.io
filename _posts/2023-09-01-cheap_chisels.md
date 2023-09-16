@@ -3,7 +3,7 @@
 layout   : post
 author   : bruce
 toc      : false
-comments : false
+comments : true
 title    : "Harbor Freight Chisels - Windsor Design Chisels"
 beforetoc: "An initial look at the Windsor Chisel set from Harbor Freight Tools"
 categories: [ woodworking, tools, review ]

@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "d052c53fdcdd5207",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ee87cf3e2c7c3d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_drafts/dg-steam-family.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59a03c21f1d7cfca",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c0abbc54be0bfe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52999fe8771910ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa924351d5722bc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bc49eb5cf58a062",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e61faffad6d6a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431def5fd562a6ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/dg-steam-family.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4ee87cf3e2c7c3d5",
+  "lastOpenFiles": [
+    "_drafts/dg-steam-family.md",
+    "_drafts/draft-t.md",
+    "assets/images/dg-sd-steam.png"
+  ]
+}
