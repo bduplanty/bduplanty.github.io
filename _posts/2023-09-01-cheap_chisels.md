@@ -5,14 +5,14 @@ author   : bruce
 toc      : false
 comments : true
 title    : "Harbor Freight Chisels - Windsor Design Chisels"
-beforetoc: "An initial look at the Windsor Chisel set from Harbor Freight Tools"
+beforetoc: "An initial look at the Windsor wood chisel set from Harbor Freight Tools"
 categories: [ woodworking, tools, review ]
 image     : assets/images/2023-9-1 Cheap Chisels/IMG_8004.jpeg
 featured  : true
 
 ---
 
-# Cheap Chisels - Windsor Chisel Set from Harbor Freight
+# Cheap Wood Chisels - Windsor Chisel Set from Harbor Freight
 
 ## An initial look at the chisels...
 
