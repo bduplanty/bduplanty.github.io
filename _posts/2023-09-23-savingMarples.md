@@ -43,9 +43,9 @@ After some googling as well as review of restoring plane irons and removing rust
 
 ![IMG_8076](../assets/images/SavingMarples/IMG_8076.jpeg){: width="200px"}
 
-Next was some attention with [Big 45 Metal Cleaner](https://www.big45metalcleaner.com),  
+Next was some attention with [Big 45 Metal Cleaner](https://www.big45metalcleaner.com).
 
-![IMG_8083](../assets/images/SavingMarples/IMG_8083.jpeg){: width="250px"}
+![IMG_8083](../assets/images/SavingMarples/IMG_8083.jpeg){: width="450px"}
 
 ![IMG_8085](../assets/images/SavingMarples/IMG_8085.jpeg){: width="250px"}
 
