@@ -72,6 +72,7 @@ _I started grinding the tip incorrectly at 30°.  But it helped to get rid of th
 ![IMG_8103](../assets/images/SavingMarples/IMG_8103.jpeg){: width=2"50px"}
 
 _I adjusted the chisel in the guide to 25° and sanded on 120 grit as well as 220 and 320 wet/dry._
+
 I next moved on to the back with some sand paper as well as went through various grits of water stones.  Once we were in the ballpark, I moved to the diamond stones to finish up the initialization and sharpening.  
 
 ![i](../assets/images/SavingMarples/IMG_8104.jpeg){: width="250px"}
