@@ -29,7 +29,7 @@ So, here are four Marples chisels that seems to have been lovingly use but have 
 
 ## The Start
 
-I received the chisels as described, with a consistent coating of rust.  They do appear to be lovingly used, rusty, but with plenty of meat left on the bone. There is some weird sharpening and dings, but not overcomable, I think  I decided to start with the 3/4 inch chisel since I'm mid workbench build and have to finish some mortises the are laid out to 3/4 inch.
+I received the chisels as described, with a consistent coating of rust.  They do appear to be lovingly used, rusty, but with plenty of meat left on the bone. There is some weird sharpening and dings, but not overcomable, I decided to start with the 3/4 inch chisel since I'm mid-workbench build and have to finish some mortises the are laid out to 3/4 inch.
 
 ![IMG_8073](../assets/images/SavingMarples/IMG_8073.jpeg){: width="360px"}
 
