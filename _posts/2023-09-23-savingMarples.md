@@ -67,7 +67,7 @@ To address the bevel and tip, I moved to my plane blade restore process and move
 
 ![IMG_8102](../assets/images/SavingMarples/IMG_8102.jpeg){: width="300px"}
 
-_I started grinding the tip incorrectly at 30°.  But it helped to get rid of the digging on the right side_
+_I started grinding the tip incorrectly at 30°.  But it helped to get rid of the digging on the right side._
 
 ![IMG_8103](../assets/images/SavingMarples/IMG_8103.jpeg){: width=2"50px"}
 
@@ -93,17 +93,17 @@ I moved on to the stope with the bevel and main blade of the chisel.
 
 The chisel turned out great.  The surfaces turned out flat and with a good polish.  Seems as if the one of the proper owners gridded the back side of the tip (flat side) and may take a couple of sharpening to get past.
 
-![IMG_8113](../assets/images/SavingMarples/IMG_8113.jpeg){: width="250px"}
+![IMG_8113](../assets/images/SavingMarples/IMG_8113.jpeg){: width="450px"}
 
-![IMG_8114](../assets/images/SavingMarples/IMG_8114.jpeg){: width="w50px" }
+![IMG_8114](../assets/images/SavingMarples/IMG_8114.jpeg){: width="450px" }
 
 Overall, I think the restore turned out great.  I was not restoring for collector purposes, but for usage purposes.
 
-![IMG_8115](../assets/images/SavingMarples/IMG_8115.jpeg){: width="320p"x }
+![IMG_8115](../assets/images/SavingMarples/IMG_8115.jpeg){: width="320px" }
 
 _1/2' unrestored on top, 3/4" restored and sharped on bottom._
 
-![IMG_8116](../assets/images/SavingMarples/IMG_8116.jpeg){: width="300px "}
+![IMG_8116](../assets/images/SavingMarples/IMG_8116.jpeg){: width="300px" }
 
 Although I may hit the chisel with the buffing wheel, I decided to put it to use on a set of mortises on the last leg of my workbench,  It did great and love the feel of the handle.
 
