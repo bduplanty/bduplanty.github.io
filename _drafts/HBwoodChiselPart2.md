@@ -6,7 +6,7 @@ toc      : false
 comments : true
 title    : "Harbor Freight Wood Chisel - Part 2"
 beforetoc: "XXXXSomeTextXXXX"
-categories: [ woodworking, tools ]
+categories: [ woodworking, tools, chisel ]
 image     : assets/images/xxxx.png
 
 ---

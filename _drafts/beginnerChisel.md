@@ -6,7 +6,7 @@ toc      : false
 comments : false
 title    : "THE-TITLE"
 beforetoc: "XXXXSomeTextXXXX"
-categories: [ tag, tag ]
+categories: [ woodworking, tools, chisel ]
 image     : assets/images/xxxx.png
 
 ---
