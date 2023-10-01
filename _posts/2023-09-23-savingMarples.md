@@ -10,9 +10,6 @@ categories: [ woodworking, tools, chisel ]
 image     : assets/images/SavingMarples/IMG_8074.jpeg
 featured  : true
 ---
-
-# Saving Marples
-
 Chisels.  What's good?  What's bad?  What's average?
 
 I have some Buck's Brothers chisels from the big box store and they are new, have some sort of composite handles, and seem to be usable for fine woodworking.  I learned years after acquiring them that [Chris Schwarz recommends them](https://www.popularwoodworking.com/editors-blog/2018-anarchists-gift-guide-day-8-buck-bros-chisels/) as a decent starter set.
@@ -85,7 +82,7 @@ Once I went through the various diamond stones both on the back as well as the b
 
 _I polished the top side and side bevels as well._
 
-I moved on to the stope with the bevel and main blade of the chisel.
+I moved on to the strope with the bevel and main blade of the chisel.
 
 ![IMG_8106](../assets/images/SavingMarples/IMG_8106.jpeg){: width="320px"}
 
