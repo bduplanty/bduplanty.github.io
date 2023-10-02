@@ -10,7 +10,7 @@ categories: [ woodworking, tools, chisel ]
 image     : assets/images/2023-10-1-savingMarplesConclusion/marples before and after.png
 featured  : true
 ---
-I applied the same steps to resorting the remainging Marples chisels that I did to the 3/4" chisel.
+I applied the same steps to resorting the remaining Marples chisels that I did to the 3/4" chisel.
 
 They turned out wonderfully well.  Additionally, before sharpening, I used the buffing wheel with the green compound to polish the non-cutting edges of the chisel.
 
